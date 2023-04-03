@@ -115,7 +115,7 @@ collections:
       - { label: 'Lede', name: 'lead', widget: 'string'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: 'financials'
+  - name: 'financials-fr'
     label: 'Financials French'
     folder: 'content/french/Finances'
     create: true
